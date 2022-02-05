@@ -11,14 +11,15 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = ''
-gc2 = ''
-gc3 = ''
+gc1 = 'https://s.id/TRLC'
+gc2 = 'https://s.id/TRLO'                                       
+gc3 = 'https://s.id/TRMr'                                       
+gc4 = 'https://s.id/TRMV'
 global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.owner = ['6282128475388','6282160268332'] // Put your number here //owner eval
+global.kontak = ['6282128475388','0','6282160268332'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6282160268332','6282160268332','0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -32,7 +33,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
-  'https://api.xteam.xyz': 'Dawnfrostkey',
+  'https://api.xteam.xyz': '7a99fbd6b77336d5',
   'https://api.lolhuman.xyz': 'RFK-Rey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
@@ -46,21 +47,21 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+kasihcaption = `*_Selesai_*`
+namakontak1 = 'David'
+namakontak2 = 'Ndak tau'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By One' // ganti aja
+global.author = 'Galaxy Team' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'One' //AlyaaXy Broadcast
+footer = '\nBy One'
+namabot = 'One Bot'
+namalu = 'Dapitt'
 
 
 // 
