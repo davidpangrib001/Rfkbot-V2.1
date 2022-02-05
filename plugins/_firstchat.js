@@ -12,15 +12,15 @@ handler.all = async function (m) {
     await this.sendButton(m.chat, `
 Hai, ${ucapan()}
 
-${user.banned ? 'kamu dibanned' : 'Alyaaxzy Bot di sini ada yang bisa saya bantu? Jika mau liat menu tinggal ketik *#Menu* atau ketik button di bawah'}
-`.trim(), footer, user.banned ? 'Pemilik Bot' : 'Menu', user.banned ? '#owner' : '#menu', m)
+${user.banned ? 'kamu dibanned' : 'Halo, One Bot di sini ada yang bisa saya bantu? Jika mau liat menu tinggal ketik *#menu* atau klik tombol di bawah'}
+`.trim(), footer, user.banned ? 'Orang\nKesayangan' : '', user.banned ? '#owner' : '#menu', m)
     user.pc = new Date * 1
 }
 
 module.exports = handler
 function ucapan() {
     const time = moment.tz('Asia/Jakarta').format('HH')
-    res = "Selamat dinihari"
+    res = "Selamat subuh"
     if (time >= 4) {
         res = "Selamat pagi"
     }
